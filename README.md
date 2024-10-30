@@ -2,7 +2,7 @@
 
 Все файлы для решения находятся в папке time_series 
 
-Полный код обучения модели находится в файле time_series/vk_task.ipynb
+Полный код находится в файле time_series/vk_task.ipynb
 
 Для быстрой генерации решения запустите time_series/general_submission.py
 
